@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        for (int i = 1; i <= 800; i++) {
+        for (int i = 1; i <= 900; i++) {
             System.out.println(i);
         }
     }
